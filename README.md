@@ -19,4 +19,4 @@ My first repository
 4. Ryokugyu
    - Marine Admiral
    - Logia Devil Fruit
-   - Forest Powers
+   - Forest Powers 
